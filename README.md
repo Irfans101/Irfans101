@@ -22,12 +22,6 @@ With a keen eye for detail, I develop mobile applications that are not only func
 DevOps
 I streamline development workflows by implementing efficient CI/CD pipelines, containerization, and cloud deployment strategies. My goal is to ensure smooth and reliable delivery of applications from development to production.
 
-Featured Projects
-Project Name 1: A brief description of your project. Mention the technologies used and any noteworthy features.
-
-Project Name 2: Another project overview with similar details.
-
-Project Name 3: Highlight any open-source contributions or collaborations.
 
 Get in Touch
 I'm always open to discussing new projects, ideas, or opportunities to collaborate. :
