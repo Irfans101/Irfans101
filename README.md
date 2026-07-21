@@ -2,20 +2,11 @@
 
 # 👋 Hi, I'm Irfan Ali
 
-### 🚀 Full Stack Developer | AI Engineer
+### Full Stack Developer | AI Engineer
 
-I build modern web applications, AI-powered solutions, and automation systems
-that solve real-world business problems.
+Building scalable web applications, AI-powered solutions, and intelligent automation systems.
 
-<br/>
-
-<a href="https://github.com/Irfans101">
-<img src="https://img.shields.io/badge/GitHub-Irfans101-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Irfans101-181717?style=for-the-badge&logo=github)](https://github.com/Irfans101)
 
 </div>
 
@@ -23,11 +14,23 @@ that solve real-world business problems.
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer and AI Engineer** passionate about building software that goes beyond simply working — I build solutions that solve business problems, automate repetitive workflows, and create better user experiences.
+I'm a **Full Stack Developer and AI Engineer** passionate about building modern software that solves real-world problems.
 
-My journey started with web development and evolved into building intelligent applications powered by AI. Today, I work across the full development lifecycle — from designing responsive frontends and engineering scalable backend services to integrating AI capabilities and delivering production-ready applications.
+My experience spans the full development lifecycle — from creating responsive frontend interfaces and scalable backend APIs to integrating AI capabilities and automating business workflows.
 
-I enjoy transforming ambitious ideas into practical products, whether it's an AI recruitment platform, healthcare solution, CRM, SaaS platform, or workflow automation system.
+I enjoy transforming ideas into practical products, including AI applications, SaaS platforms, CRM systems, healthcare solutions, and enterprise management systems.
+
+- 🔭 Building Full Stack and AI-powered applications
+- 🤖 Exploring Generative AI and AI Agents
+- ⚙️ Working with AI Workflow Automation
+- 💻 Developing scalable web applications and APIs
+- 🚀 Building SaaS and business management platforms
+- 🌱 Continuously learning and exploring new technologies
+- 🌍 Open to remote opportunities and collaborations
+
+---
+
+## 🖥️ Developer Terminal
 
 ```text
 $ whoami
@@ -55,32 +58,75 @@ $ status
 > building
 > shipping
 🚀 What I Build
-🤖 AI-powered web applications and intelligent assistants
-🌐 Modern Full Stack applications and SaaS platforms
-🏢 CRM systems and enterprise business applications
-📊 Admin dashboards and management systems
-⚙️ Workflow automation and business process optimization
-🔗 REST APIs and scalable backend architectures
-🎨 Responsive, interactive, and user-focused interfaces
-🔐 Authentication, role-based access, and secure application systems
+
+🤖 AI Applications
+AI-powered web applications, chatbots, and intelligent assistants.
+
+🌐 Full Stack Applications
+Modern, scalable web applications with responsive user experiences.
+
+🏢 SaaS Platforms
+Business-focused SaaS products and multi-user platforms.
+
+📊 CRM & Enterprise Systems
+CRM systems, dashboards, HR systems, and management platforms.
+
+⚙️ Workflow Automation
+Automating repetitive business processes and workflows.
+
+🔗 Backend Systems
+REST APIs, authentication systems, and scalable backend architectures.
+
 💻 Tech Stack
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,dotnet" /> </p>
-🗄️ Databases & Cloud
-<p> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,azure" /> </p>
-🤖 AI & Automation
-OpenAI API
-LLM Applications
-AI Chatbots
-Prompt Engineering
-Generative AI
-AI Agents
-AI Workflow Automation
-n8n
-🧰 Tools & Development
-<p> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" /> </p>
+Frontend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backend
+
+
+
+
+
+
+
+
+
+
+Databases
+
+
+
+
+
+
+AI & Automation
+
+
+
+
+LLMs · AI Chatbots · Prompt Engineering · Generative AI · AI Agents · Workflow Automation
+
+Tools
+
+
+
+
+
+
+
+
 🚀 Featured Projects
 🤖 AI Recruitment & ATS Platform
 
@@ -88,7 +134,7 @@ An AI-powered recruitment platform designed to streamline hiring workflows, anal
 
 Focus: AI · Recruitment Automation · Resume Analysis · Workflow Automation · SaaS
 
-🏥 Recovery Road — Digital Health Platform
+🏥 Recovery Road
 
 A digital health platform designed to support structured recovery programs through goal tracking, communication, notifications, and supervisor management.
 
@@ -108,27 +154,18 @@ Focus: CRM · REST APIs · Dashboards · Business Process Automation
 
 🌱 Currently Exploring
 🤖 Generative AI
-🧠 Large Language Models (LLMs)
+🧠 Large Language Models
 🕸️ AI Agents
 📚 RAG Systems
 ⚙️ AI Workflow Automation
 🔗 LangGraph
 🧩 Advanced TypeScript
 🏗️ Scalable SaaS Architecture
-☁️ Cloud & Production Deployment
+☁️ Cloud Deployment
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Irfans101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfans101&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Irfans101&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfans101&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 🔥 GitHub Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Irfans101&theme=tokyonight&hide_border=true" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irfans101&theme=tokyo-night&hide_border=true" width="100%"/> </div>
-🧠 My Development Philosophy
-Build with purpose.
-Solve real problems.
-Write maintainable code.
-Automate repetitive work.
-Keep learning.
-Ship meaningful products.
 🤝 Let's Connect
 
 I'm interested in connecting with developers, founders, and teams working on:
@@ -138,17 +175,11 @@ I'm interested in connecting with developers, founders, and teams working on:
 🧠 Generative AI
 ⚙️ Workflow Automation
 💡 SaaS Products
-🏢 Business & Enterprise Applications
-🌍 Remote Development Opportunities
-<br/> <div align="center">
-💬 Let's build something meaningful together.
-<br/> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+🏢 Enterprise Applications
 
-<br/><br/>
+<div align="center">
+⚡ Technology never stands still — and neither do I.
 
 ⭐ If you find my work interesting, consider starring some of my repositories!
 
-</div>
-<div align="center">
-⚡ Technology never stands still — and neither do I.
-</div> ``
+</div> ```
